@@ -22,6 +22,6 @@
 6. Анализируйте диаграмму рассеяния в разделе метрики по "Campaign ID". Вы можете увидеть линию тренда в этой метрики, необычные отклонения от нее, а так же, <u>нажав на идентификатор компании</u> посмотреть более детальные метрики по ней.
 7. Воспользуйтесь таблицей для более глубокого анализа каждой компании, <u>используя сортировку, нажав на заголовок таблицы</u>.
 
-<img width="45%" src="https://github.com/pupelula/Tableau_PaidMedia_Dashboard/blob/main/screen%20dashboard.png"/>
+<img width="90%" src="https://github.com/pupelula/Tableau_PaidMedia_Dashboard/blob/main/screen%20dashboard.png"/>
 
 
