@@ -1,5 +1,7 @@
 # Paid Media / Digital ADS dashboard
 Ссылка на дашборд: [https://public.tableau.com/app/profile/mariia.ivanova/viz/ads12/Dashboard1]
+<a href="https://public.tableau.com/app/profile/mariia.ivanova/viz/ads12/Dashboard1" target="_blank">Ссылка в новом окне</a>
+ 
 
 ## Цель:
 Построить дашборд для ежедневного анализа расходов на рекламу, который поможет маркетинговым командам оптимизировать свои стратегии, сократить расходы и максимизировать рентабельность инвестиций.
